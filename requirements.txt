@@ -23,7 +23,7 @@ mlx-lm==0.0.6
 numpy==1.26.3
 packaging==23.2
 pandas==2.2.0
-pillow==10.2.0
+pillow==10.3.0
 protobuf==4.25.2
 pyarrow==15.0.0
 pydeck==0.8.1b0
